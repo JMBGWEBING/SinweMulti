@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <meta property="og:title" content="NAME" />
+
+    <meta property="og:image" content="http:link here" />
+
+  </head>
+  <body>
+    <p>Web page content goes here</p>
+  </body>
+</html>
